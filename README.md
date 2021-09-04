@@ -2,10 +2,12 @@
 C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.<br>
 This repository will guide you to learn C programming basic with examples and projects one step at a time.
 
-## Programming Topics
+## Classification
 - Introduction
 - Flow Control
-- Function/Recursion - Arrays
+- Function
+- Recursion 
+- Arrays
 - Pointers
 - Strings
 - Structure and union
@@ -13,6 +15,12 @@ This repository will guide you to learn C programming basic with examples and pr
 - Additional Topics
 - Programming Examples
 - simple Projects
+
+## Projects
+- [ATM Banking System](./C%20project/ATM%20BANKING%20SYSTEM/ATM_BANKING_IN_C.c)
+- [Calender App](C%20project/Calender%20App%20in%20C/Calender_App_C_Programming.c)
+- [Phone Book System](C%20project/Phone%20Book%20system%20in%20C/contact.txt)
+- [Stop Watch](C%20project/Stop%20Watch%20in%20C/Stop_Watch_by_C_language.c)
 
 ## About C Programming
 Procedural Language - Instructions in a C program are executed step by step.
